@@ -1,409 +1,137 @@
-# Hey there👋, Welcome to my Github Profile
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
- 
- <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+<!--h1 without bottom border-->
 
-
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif/>
-
-## ⚡🙋‍♂️ About Me
-
-</br>
-
-- 🔧 I’m currently working on ...Online Retail Community App.
-
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
-
-<hr>
-
-<!---
-
-kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Elio Chiu</h1></summary>
+  </ul>
+</div>
 
 
-</br>
+<!--About Me-->
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<table width="100%" >
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
- <tr>
-    <td width="60%">
-     
-## 🛠️ Skills
+- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
+- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
+- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
+- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
+- :nerd_face: Always believe `"You are what you loved"`
 
-#### Languages
+<br>
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+## 🛠️ My Skills
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
-#### Development
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
-![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
-<!--      
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) -->
-<!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp; -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
 
-#### Database
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
 
-#### Tools and Technologies
+![Hive](https://img.shields.io/badge/Hive-FF7A00?style=flat-square&logo=Hive&logoColor=white)
+![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
+![ApacheHadoop](https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
-![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
 
-<!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
 
-#### Data Analytics 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-     
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+
+<br>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+
+<!--- stats & Trophy (start) -->
+
+<p align="left">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ElioChiu&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
 </td>
-    <td>
-  
-## 📄📜 Stats
 
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
- </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
-</p>
-     
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
   </td>
- </tr>
+</tr>
 </table>
+<!--- stats (end) -->
 
+<!--- trophy (start) -->
 
-<!--
-#### Cloud Infrastructures
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ElioChiu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
 
-![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)&nbsp;
+<!--- trophy (start) -->
+</p>        
+<!--- stats (end) -->
 
+<br>
 
-#### Environments
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
-![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white)&nbsp;
-![Replit](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)&nbsp;
-![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
--->
-
-
-<!--
-
-<br />
-
-<details>
-
-  <summary><h2> 📌🏴  Coding Profiles </h2></summary>
-
-</br>
-</br>
-
-<a href="#" ><img style="height:25px; margin:10%; position: absolute;float: left;" src = "https://img.shields.io/static/v1?message=Code%20Chef&logo=CodeChef&labelColor=brown&color=brown&logoColor=white&label=%20&style=plastic"/></a> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=Leet%20Code&logo=LeetCode&labelColor=05122A&color=05122A&logoColor=FFA116&label=%20&style=plastic"/>&nbsp;&nbsp;&nbsp;  &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&labelColor=black&color=black&logoColor=00EA64&label=%20&style=flat"/> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:26px" src = "https://img.shields.io/static/v1?message=Codeforces&logo=Codeforces&labelColor=red&color=red&logoColor=yellow&label=%20&style=plastic"/> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=Geeks%20For%20Geeks&logo=GeeksforGeeks&labelColor=white&color=lightgrey&logoColor=2F8D46&label=%20&style=plastic"/>  &nbsp;
-<a href = "#" > <img src = "https://img.shields.io/static/v1?message=Articles&logo=Medium&labelColor=000000&color=white&logoColor=white&label=Medium&style=plastic"/></a>
-
-
-</details>
-
--->
-
-</br>
-
-<!--
-
-<details>
-
-  <summary> <h3> Post Links </h3> </summary>
-
-  </br>
-
-  <a href = "#" > <img src = "https://img.shields.io/static/v1?message=QnA&logo=StackOverflow&labelColor=F58025&color=white&logoColor=white&label=Stack%20Overflow&style=plastic"/></a>
- 
-  
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Communinty&logo=dev.to&labelColor=0A0A0A&color=white&logoColor=white&label=dev.to&style=plastic"/></a>
- 
- 
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Blog%20Post&logo=GeeksforGeeks&labelColor=2F8D46&color=white&logoColor=white&label=gfg&style=plastic"/></a>
- 
- 
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Articles&logo=Medium&labelColor=000000&color=white&logoColor=white&label=Medium&style=plastic"/></a>
-
-
-  
-</details>
-
--->
-
-
-
-<!-- 
-# Featured Repositories 🚀
-
-
-<img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=swift"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=News-Accumulator&theme=buefy"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=JS-DOM-Snippets&theme=vue"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=IPL-Statistical-Analysis&theme=moltack&title_color=000000"/>
-
-<img width="30%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Tech-Vision"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=HomePal&theme=vue"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Directory-Tree-Generator&theme=apprentice"/>
- -->
-
-<!--
-
-## Banner
-
-## Update About
-
-## Metrics
-
-## Code Snippet Gif/ Anime
-
-## Resize
-
-## Pinned Repositories
-
-## Open Source Programs
-
-## Achievements Section
-
--->
-
-<!-- 
-Navigation Options  -->
-
-<!-- 
-Featured Repositories.
- -->
-
-
- 
-<!-- 
-
-<details> 
- <summary> <h2> Here are some highlights of my open source journey </h2> </summary>
- 
- 
- 
-<details>
-
-  <summary> <h2> <a href="#">   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>  </a> 
- 
-   👆 Click To Expand!! </h2> </summary>
-  
-  <table>
-   <h2> Section Link </h3> 
- <tr>
- <td> <img src="git-metrics/r1l.svg"/> </td>
- <td> <img src="git-metrics/r1r.svg"/> </td>
- </tr>
- </table>
-  
-</details>
-
- <details>
-
-  <summary> Open Source Work </summary>
-  
-   <table>
-     
-   <td><img src="git-metrics/r2.svg"/> </td>
-   <td><img src="git-metrics/r3.svg"/> </td>
-     
- 
- </table>
-  
-</details>
- 
- 
- <details>
-
-  <summary> Useful Repos and Important Code </summary>
-  
-   <table>
-     
-   <td><img src="git-metrics/r4l.svg"/> </td>
-   <td><img src="git-metrics/r4r.svg"/> </td>
-     
- 
- </table>
-  
-</details>
- 
-  <details>
-
-  <summary> Others's collaboration my repos </summary>
-  
-   <table>
-     
-  <tr>   
-     <img src="git-metrics/r5.svg"/> 
-    </tr>   
- 
- </table>
-  
-</details>
-
-</details>
- -->
- 
- 
-
-  
-<!-- ## Here are some highlights of my open source journey 
-
- ### - Activity Smmary and Overview
-
-## Here are some of my works
- -->
-
-</br>
-</br>
-
-## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
-
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img width="80%" align="center" src ="profile-3d-contrib/profile-customize.svg"/>
-
-
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img  width="70%" align="center" src="https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
-
-
-</br>
-
-  <table  >
- <tr>
-  
-
-
-  <td width="75%" align = "left">
-
-   <h3>  &nbsp; &nbsp; 📙📘 &nbsp;Recent Articles and Blog Posts  </h3>
-
-   
-<!-- BLOG-POST-LIST:START -->
-- [Take your GitHub profile from zero to hero with these 10 hacks](https://medium.com/@kaustav_g/take-your-github-profile-from-zero-to-hero-with-these-10-hacks-b6b5ffe3d065?source=rss-d1e37ddd01e4------2)
-- [How Open Source can be only thing you need to kickstart your journey as a software developer Part2](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part2-656cab3f4a82?source=rss-d1e37ddd01e4------2)
-- [How Open Source can be only thing you need to kickstart your journey as a  software developer Part1](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part1-5529c29e3a8b?source=rss-d1e37ddd01e4------2)
-<!-- BLOG-POST-LIST:END -->
-
-  </td>
-  
-  <td width="600px">
-   
-  </td>
-  
- </tr>
- </table>
- 
- 
- </br>
- 
-## &nbsp; &nbsp; &nbsp;🔥 My Motto
-
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
-
-
+<!--profile visit count-->
 
 <div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
-<br>
+
+[![](https://visitcount.itsvg.in/api?id=ElioChiu&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+
 </div>
- 
 
- 
-<!-- 
-<details>
-  
-  <summary>  <h2> &nbsp;&nbsp; 🌟Profiles  </h2> </summary>
-  
-  </br>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <a href = "https://github.com/kaustav202/kaustav202/blob/main/fun.md"> <h3>🔸🎮 Lots of other cool stuffs, trivia and info about me </h3> </a>
-  
-  </br>
-  
-  <a href = "https://metrics.lecoq.io/about/kaustav202"><h3>🔸🚀  Checkout all my open source jorney and more metrics in this page </h3> </a>
-  
-  </br>
-  
-  <a href = "https://kaustav-port.web.app/"><h3>🔸🎴 My Portfolio Website</h3></a>
-  
-  </br>
-  </br>
-  
- </details>
- -->
+-----------
 
+Credit: [ElioChiu](https://github.com/ElioChiu)
 
-## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
-
-<br/>
-
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kgan31/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:gkaustav57@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href = "https://discordapp.com/users/885073575839670302"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
-
-</br>
-</br>
-
-
-<!--
-
-<div style = "display: flex; align-items: center; justify-content: center;">
- 
-  <div>
-    
-<a href="https://www.buymeacoffee.com/gkaustav" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 31px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; margin-left: 35%;" ></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://ko-fi.com/F1F1BRCNJ"><img src = "https://ko-fi.com/img/githubbutton_sm.svg"/></a>
-    
-  </div>
- </div>
-
--->
-
-<!--
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaustav202%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  -->
-
+Last Edited on: 10/7/2023
