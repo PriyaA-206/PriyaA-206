@@ -5,7 +5,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Elio Chiu</h1></summary>
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Priya Ayata</h1></summary>
   </ul>
 </div>
 
@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
+- :school: I am a `Computer Science Graduate` at [College of Vignan's Lara Institute of Technology and Science](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
 - :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
 - :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
